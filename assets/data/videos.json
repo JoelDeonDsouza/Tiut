@@ -1,0 +1,37 @@
+[{
+    "id": "1",
+    "createdAt": "1 months ago",
+    "title": "Web development(tutorial for beginners) ",
+    "thumbnail": "https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290366i358D67A3A7A0B4A8/image-size/large?v=v2&px=999",
+    "videoUrl": "",
+    "duration": 16,
+    "user": {
+      "name": "Tiut",
+      "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "views": 30345123
+  }, {
+    "id": "2",
+    "createdAt": "1 months ago",
+    "title": "HTML CSS Course",
+    "thumbnail": "https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290366i358D67A3A7A0B4A8/image-size/large?v=v2&px=999",
+    "videoUrl": "",
+    "duration": 984,
+    "user": {
+      "name": "Tiut",
+      "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "views": 57000
+  }, {
+    "id": "3",
+    "createdAt": "1 months ago",
+    "title": "Master JavaScript",
+    "thumbnail": "https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290366i358D67A3A7A0B4A8/image-size/large?v=v2&px=999",
+    "videoUrl": "",
+    "duration": 384,
+    "user": {
+      "name": "Tiut",
+      "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "views": 227000
+  }]

@@ -1,0 +1,17 @@
+{
+    "id": "1",
+    "createdAt": "5 months ago",
+    "title": "Web Development Session one",
+    "thumbnail": "https://techcommunity.microsoft.com/t5/image/serverpage/image-id/290366i358D67A3A7A0B4A8/image-size/large?v=v2&px=999",
+    "videoUrl": "/",
+    "duration": 384,
+    "user": {
+      "name": "Tiut Web Developer",
+      "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "subscribers": 100000
+    },
+    "views": 231000,
+    "tags": "#Web #Tiut #DeveloperProgram",
+    "likes": 4563,
+    "dislikes": 0
+  }
